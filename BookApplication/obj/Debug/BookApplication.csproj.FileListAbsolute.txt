@@ -1,0 +1,10 @@
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\bin\Debug\BookApplication.exe.config
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\bin\Debug\BookApplication.exe
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\bin\Debug\BookApplication.pdb
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.csprojAssemblyReference.cache
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.MainForm.resources
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.Properties.Resources.resources
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.GenerateResource.cache
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.exe
+C:\Users\User\Documents\CTU\1st Semester\Intermediate Programming (PRG521)\Group Work - PRG521\Group Activity 5\BookApplication\BookApplication\obj\Debug\BookApplication.pdb
